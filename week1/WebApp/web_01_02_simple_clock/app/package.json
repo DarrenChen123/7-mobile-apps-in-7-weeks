@@ -1,0 +1,15 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "A mobile web world-clock app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "underscore": "^1.8.3"
+  }
+}
